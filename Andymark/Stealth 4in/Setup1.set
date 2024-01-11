@@ -1,0 +1,10 @@
+(Filename     : Setup1)
+( PROGRAM NUMBER=0001 )
+MACHINE:LAGUNA IQ 
+CONTROLLER:LAGUNA DSP 
+( MATERIAL=6061-T6 )
+( THICKNESS=1. )
+( ESTIMATED MACHINE TIME=0 HRS.  0 MIN.  14 SEC. )
+( STATION  TOOL TYPE  DIAMETER  CORNER RADIUS  DESCRIPTION               )
+( -------  ---------  --------  -------------  -------------------- )
+(  001     ENDMILL      00.250                            M223-0250-0750  )
